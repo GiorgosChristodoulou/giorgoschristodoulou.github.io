@@ -26,7 +26,7 @@ Data Management and query processing of non-traditional data (temporal, spatial,
 
 1. Research Intern at The University of Mainz (JGU) in Germany, working with Prof. Panagiotis Bouros. February - April, 2022.
 
-2. Research Intern at the Hong Kong University of Science and Technology (HKUST) in Hong Kong, working with Prof. Dimitris Papadias. January-February, 2023.
+2. Research Intern at the Hong Kong University of Science and Technology (HKUST) in Hong Kong, working with Prof. Dimitris Papadias. January - February, 2023.
 
 ## Service
 
