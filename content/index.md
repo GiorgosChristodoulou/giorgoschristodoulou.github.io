@@ -14,11 +14,11 @@ Data Management and query processing of non-traditional data (temporal, spatial,
 
 ## Publications
 
-1. HINT: A Hierarchical Index for Intervals in Main Memory, Proceedings of the 2022 ACM International Conference on Management of Data (ACM SIGMOD'22). [PDF](https://dl.acm.org/doi/10.1145/3514221.3517873)
+1. HINT: A Hierarchical Index for Intervals in Main Memory, Proceedings of the 2022 ACM International Conference on Management of Data (SIGMOD'22). [PDF](https://dl.acm.org/doi/10.1145/3514221.3517873)
 
-2. HINT: A Hierarchical Interval Index for Allen Relationships, **under review**.
+2. HINT: A Hierarchical Interval Index for Allen Relationships, to appear at the International Journal on Very Large Data Bases (VLDBJ). [PDF](/George_Christodoulou_VLDBJ.pdf)
 
-3. Efficient And Scalable Management Of Interval Data, International Conference on Extending Database Technology (EDBT'23) PhD Workshop
+3. Efficient And Scalable Management Of Interval Data, International Conference on Extending Database Technology (EDBT'23) PhD Workshop. [PDF](/George_Christodoulou_EDBT_PhD_Workshop.pdf)
 
 ## Internships
 
@@ -38,7 +38,8 @@ External Reviewer for ICDE 2019-2023, VLDB 2020-2023, SIGMOD 2020, EDBT 2020, DA
 
 Year | Position
 -----|--------
-2019 | Research Assistant at Centre for Research & Technology Hellas (CERTH)
+2019 | Research Assistant at Centre for Research & Technology Hellas (CERTH) - [SerIoT Project](https://seriot-project.eu/)
+2020-2023 | Scholarship in Research Program from Organization of Special Account of Research Funds, University of Ioannina - [Proximiot Project](https://proximiot.com/), [SmartCityBus Project](https://smartcitybusproject.github.io/)
 
 
 ## Contact
