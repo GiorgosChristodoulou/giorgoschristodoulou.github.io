@@ -46,6 +46,6 @@ Year | Position
 
 * Email:   [g.christodoulou@uoi.gr](mailto:g.christodoulou@uoi.gr)
 
-* Address: Stavridi 7, Ioannina, Greece
+* Address: Stavridi 7, Ioannina, Greece 
 ---
 
