@@ -30,7 +30,7 @@ Data Management and query processing of non-traditional data (temporal, spatial,
 
 ## Service
 
-Reviewer for PKADD 2021
+Reviewer for PKADD 2021  
 
 External Reviewer for ICDE 2019-2023, VLDB 2020-2023, SIGMOD 2020, EDBT 2020, DASFAA 2023
 
@@ -39,7 +39,7 @@ External Reviewer for ICDE 2019-2023, VLDB 2020-2023, SIGMOD 2020, EDBT 2020, DA
 Year | Position
 -----|--------
 2019 | Research Assistant at Centre for Research & Technology Hellas (CERTH) - [SerIoT Project](https://seriot-project.eu/)
-2020-2023 | Scholarship in Research Program from Organization of Special Account of Research Funds, University of Ioannina - [Proximiot Project](https://proximiot.com/), [SmartCityBus Project](https://smartcitybusproject.github.io/)
+2020-2023 | Scholarship in Research Program from Organization of Special Account of Research Funds, University of Ioannina - [Proximiot Project](https://proximiot.com/), [SmartCityBus Project](https://smartcitybusproject.github.io/) 
 
 
 ## Contact
