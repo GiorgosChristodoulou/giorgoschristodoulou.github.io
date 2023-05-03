@@ -10,7 +10,7 @@ I received my diploma in Computer Science and Engineering from the Computer Scie
 
 Data Management and query processing of non-traditional data (temporal, spatial, graphs)
 
-
+ 
 
 ## Publications
 
