@@ -20,7 +20,7 @@ Data Management and query processing of non-traditional data (temporal, spatial,
 
 3. Efficient And Scalable Management Of Interval Data, International Conference on Extending Database Technology (EDBT'23) PhD Workshop. [PDF](/George_Christodoulou_EDBT_PhD_Workshop.pdf)
 
-## Internships
+## Internships 
 
 
 
