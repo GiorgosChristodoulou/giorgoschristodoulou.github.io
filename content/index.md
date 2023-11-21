@@ -11,7 +11,8 @@ I received my diploma in Computer Science and Engineering from the <a href='http
 
 Data Management, Query processing (Efficient Data Indexing and Retrieval on temporal data) and Database Management System engines
 
- 
+
+
 
 ## Publications 
 
