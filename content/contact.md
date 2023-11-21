@@ -2,17 +2,16 @@
 title = "Contact"
 +++
 
-* Email: [g.christodoulou@uoi.gr](mailto:g.christodoulou@uoi.gr)
+* Email:   [g.c.christodoulou@tudelft.nl](mailto:g.c.christodoulou@tudelft.nl)
 
 ---
 
 ## Mailing Address
 
-> Stavridi 7
+
+> Delft 2611
 >
-> Ioannina
->
-> Greece
+> Netherlands
 
 ---
 
