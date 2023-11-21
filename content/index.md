@@ -3,22 +3,25 @@ title = "George Christodoulou"
 +++
 
 ## Georgios (George) Christodoulou
-
-I received my diploma in Computer Science and Engineering from the Computer Science and Engineering Department of the University of Ioannina in 2017. I received my MSc in Computer Science with specialization in software from the Computer Science and Engineering Department of the University of Ioannina in 2020. My research interests include Data Management and Query processing (Efficient Data Indexing and Retrieval on temporal data). Currently, I am pursuing my PhD degree from the Computer Science and Engineering Department of the University of Ioannina, supervised by Prof. [Mamoulis](https://www.cs.uoi.gr/~nikos/indexb.html) and Prof. [Bouros](https://pbour.github.io/). 
+<div align='justify'>
+I received my diploma in Computer Science and Engineering from the <a href='https://www.cse.uoi.gr/?lang=en'>Computer Science and Engineering Department of the University of Ioannina</a> in 2017. I received my MSc in Computer Science with specialization in software from the Computer Science and Engineering Department of the University of Ioannina in 2020. My research interests include Data Management and Query processing (Efficient Data Indexing and Retrieval on temporal data). I received my PhD from the Computer Science and Engineering Department of the University of Ioannina in 2023, supervised by <a href='https://www.cs.uoi.gr/~nikos/indexb.html'>Prof. Mamoulis</a> and  <a href='https://pbour.github.io/'>Prof. Bouros</a>. Currently, I am a postdoctoral researcher at <a href='https://www.tudelft.nl/'>TU Delft</a>.
+</div>
 
 ## Research Interest
 
-Data Management and query processing of non-traditional data (temporal, spatial, graphs)
+Data Management, Query processing (Efficient Data Indexing and Retrieval on temporal data) and Database Management System engines
 
  
 
-## Publications
+## Publications 
 
 1. HINT: A Hierarchical Index for Intervals in Main Memory, Proceedings of the 2022 ACM International Conference on Management of Data (SIGMOD'22). [PDF](https://dl.acm.org/doi/10.1145/3514221.3517873)
 
 2. HINT: A Hierarchical Interval Index for Allen Relationships, to appear at the International Journal on Very Large Data Bases (VLDBJ). [PDF](/George_Christodoulou_VLDBJ.pdf)
 
 3. Efficient And Scalable Management Of Interval Data, International Conference on Extending Database Technology (EDBT'23) PhD Workshop. [PDF](/George_Christodoulou_EDBT_PhD_Workshop.pdf)
+
+4. LIT: Lightning-fast In-memory Temporal Indexing, Proceedings of the 2022 ACM International Conference on Management of Data (SIGMOD'24).
 
 ## Internships 
 
@@ -30,11 +33,11 @@ Data Management and query processing of non-traditional data (temporal, spatial,
 
 ## Service
 
-Reviewer for PKADD 2021  
+Reviewer for PKADD 2021, ICDE 2024  
 
-External Reviewer for ICDE 2019-2023, VLDB 2020-2023, SIGMOD 2020, EDBT 2020, DASFAA 2023
+External Reviewer for ICDE 2019-2023, VLDB 2020-2024, SIGMOD 2020, EDBT 2020-2023, DASFAA 2023
 
-## Experience
+## Projects
 
 Year | Position
 -----|--------
@@ -44,8 +47,8 @@ Year | Position
 
 ## Contact
 
-* Email:   [g.christodoulou@uoi.gr](mailto:g.christodoulou@uoi.gr)
+* Email:   [g.c.christodoulou@tudelft.nl](mailto:g.c.christodoulou@tudelft.nl)
 
-* Address: Stavridi 7, Ioannina, Greece 
+* Address: Delft, Netherlands 
 ---
 
