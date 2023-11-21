@@ -22,10 +22,9 @@ Data Management, Query processing (Efficient Data Indexing and Retrieval on temp
 
 3. Efficient And Scalable Management Of Interval Data, International Conference on Extending Database Technology (EDBT'23) PhD Workshop. [PDF](/George_Christodoulou_EDBT_PhD_Workshop.pdf)
 
-4. LIT: Lightning-fast In-memory Temporal Indexing, Proceedings of the 2022 ACM International Conference on Management of Data (SIGMOD'24).
+4. LIT: Lightning-fast In-memory Temporal Indexing, Proceedings of the 2024 ACM International Conference on Management of Data (SIGMOD'24).
 
 ## Internships 
-
 
 
 1. Research Intern at The University of Mainz (JGU) in Germany, working with Prof. Panagiotis Bouros. February - April, 2022.

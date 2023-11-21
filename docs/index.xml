@@ -4,14 +4,15 @@
     <title></title>
     <link>https://giorgoschristodoulou.github.io/</link>
     <description>Recent content on </description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://giorgoschristodoulou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://giorgoschristodoulou.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>George Christodoulou</title>
       <link>https://giorgoschristodoulou.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://giorgoschristodoulou.github.io/</guid>
-      <description>Georgios (George) Christodoulou I received my diploma in Computer Science and Engineering from the Computer Science and Engineering Department of the University of Ioannina in 2017. I received my MSc in Computer Science with specialization in software from the Computer Science and Engineering Department of the University of Ioannina in 2020. My research interests include Data Management and Query processing (Efficient Data Indexing and Retrieval on temporal data). Currently, I am pursuing my PhD degree from the Computer Science and Engineering Department of the University of Ioannina, supervised by Prof.</description>
+      <description>Georgios (George) Christodoulou I received my diploma in Computer Science and Engineering from the Computer Science and Engineering Department of the University of Ioannina in 2017. I received my MSc in Computer Science with specialization in software from the Computer Science and Engineering Department of the University of Ioannina in 2020. My research interests include Data Management and Query processing (Efficient Data Indexing and Retrieval on temporal data). I received my PhD from the Computer Science and Engineering Department of the University of Ioannina in 2023, supervised by Prof.</description>
     </item>
     
   </channel>
