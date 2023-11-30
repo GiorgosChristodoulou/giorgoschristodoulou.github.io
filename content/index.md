@@ -18,11 +18,13 @@ Data Management, Query processing (Efficient Data Indexing and Retrieval on temp
 
 1. HINT: A Hierarchical Index for Intervals in Main Memory, Proceedings of the 2022 ACM International Conference on Management of Data (SIGMOD'22). [PDF](https://dl.acm.org/doi/10.1145/3514221.3517873)
 
-2. HINT: A Hierarchical Interval Index for Allen Relationships, to appear at the International Journal on Very Large Data Bases (VLDBJ). [PDF](/George_Christodoulou_VLDBJ.pdf)
+2. HINT: A Hierarchical Interval Index for Allen Relationships, to appear at the International Journal on Very Large Data Bases (VLDBJ '23). [PDF](/George_Christodoulou_VLDBJ.pdf)
 
-3. Efficient And Scalable Management Of Interval Data, International Conference on Extending Database Technology (EDBT'23) PhD Workshop. [PDF](/George_Christodoulou_EDBT_PhD_Workshop.pdf)
+3. SmartCityBus-A Platform for Smart Transportation Systems, Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM '23) [PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3575781)
 
-4. LIT: Lightning-fast In-memory Temporal Indexing, Proceedings of the 2024 ACM International Conference on Management of Data (SIGMOD'24).
+4. Efficient And Scalable Management Of Interval Data, International Conference on Extending Database Technology (EDBT '23) PhD Workshop. [PDF](/George_Christodoulou_EDBT_PhD_Workshop.pdf)
+
+5. LIT: Lightning-fast In-memory Temporal Indexing, Proceedings of the 2024 ACM International Conference on Management of Data (SIGMOD'24).
 
 ## Internships 
 
