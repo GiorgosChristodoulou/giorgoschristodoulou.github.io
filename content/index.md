@@ -20,7 +20,7 @@ Data Management, Query processing (Efficient Data Indexing and Retrieval on temp
 
 2. HINT: A Hierarchical Interval Index for Allen Relationships, to appear at the International Journal on Very Large Data Bases (VLDBJ '23). [PDF](/George_Christodoulou_VLDBJ.pdf)
 
-3. SmartCityBus-A Platform for Smart Transportation Systems, Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM '23) [PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3575781)
+3. SmartCityBus-A Platform for Smart Transportation Systems, Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM '23) Abstract. [PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3575781)
 
 4. Efficient And Scalable Management Of Interval Data, International Conference on Extending Database Technology (EDBT '23) PhD Workshop. [PDF](/George_Christodoulou_EDBT_PhD_Workshop.pdf)
 
