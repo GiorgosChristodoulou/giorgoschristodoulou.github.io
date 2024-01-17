@@ -55,7 +55,7 @@ External Reviewer for ICDE 2019-2023, VLDB 2020-2024, SIGMOD 2020, EDBT 2020-202
 
 ## Volunteer Experience
 
-* Conference Technical Support Volunteer at EDBT 2024, Ioannina, Greece
+* Conference Technical Support Volunteer at EDBT 2023, Ioannina, Greece
 
 
 ## Projects
