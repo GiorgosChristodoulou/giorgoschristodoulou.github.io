@@ -16,13 +16,15 @@ Data Management, Query processing (Efficient Data Indexing and Retrieval on temp
 
 ## Publications  
 
-5. LIT: Lightning-fast In-memory Temporal Indexing, Proceedings of the 2024 ACM International Conference on Management of Data (SIGMOD'24).
+6. HINT on Steroids: Batch Query Processing for Interval Data, International Conference on Extending Database Technology (EDBT '24) [PDF](/George_Christodoulou_EDBT24.pdf)
+
+5. LIT: Lightning-fast In-memory Temporal Indexing, Proceedings of the 2024 ACM International Conference on Management of Data (SIGMOD '24). [PDF](/George_Christodoulou_SIGMOD24.pdf)
 
 4. Efficient And Scalable Management Of Interval Data, International Conference on Extending Database Technology (EDBT '23) PhD Workshop. [PDF](/George_Christodoulou_EDBT_PhD_Workshop.pdf)
 
-3. SmartCityBus-A Platform for Smart Transportation Systems, Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM '23) Abstract. [PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3575781)
+3. SmartCityBus-A Platform for Smart Transportation Systems, Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM '23) Abstract. [PDF](/GeorgeChristodoulou_WSDM23.pdf)
 
-2. HINT: A Hierarchical Interval Index for Allen Relationships, to appear at the International Journal on Very Large Data Bases (VLDBJ '23). [PDF](/George_Christodoulou_VLDBJ.pdf)
+2. HINT: A Hierarchical Interval Index for Allen Relationships, International Journal on Very Large Data Bases (VLDBJ '23). [PDF](/George_Christodoulou_VLDBJ.pdf)
 
 1. HINT: A Hierarchical Index for Intervals in Main Memory, Proceedings of the 2022 ACM International Conference on Management of Data (SIGMOD'22). [PDF](/George_Christodoulou_SIGMOD22.pdf)
 
@@ -49,7 +51,7 @@ Data Management, Query processing (Efficient Data Indexing and Retrieval on temp
 
 ## Service
 
-Reviewer for PAKDD 2021, ICDE 2024 
+Reviewer for PAKDD 2021, ICDE 2024, VLDB 2025  
 
 External Reviewer for ICDE 2019-2023, VLDB 2020-2024, SIGMOD 2020, EDBT 2020-2023, DASFAA 2023
 
