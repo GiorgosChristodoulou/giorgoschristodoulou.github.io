@@ -14,7 +14,7 @@ Data Management, Query processing (Efficient Data Indexing and Retrieval on temp
 
 
 
-## Publications
+## Publications 
 
 6. HINT on Steroids: Batch Query Processing for Interval Data, International Conference on Extending Database Technology (EDBT '24) [PDF](/George_Christodoulou_EDBT24.pdf)
 
