@@ -4,12 +4,16 @@ title = "George Christodoulou"
 
 ## Georgios (George) Christodoulou 
 <div align='justify'>
-I received my diploma in Computer Science and Engineering from the <a href='https://www.cse.uoi.gr/?lang=en'>Computer Science and Engineering Department of the University of Ioannina</a> in 2017. I received my MSc in Computer Science with specialization in software from the Computer Science and Engineering Department of the University of Ioannina in 2020. My research interests include Data Management and Query processing (Efficient Data Indexing and Retrieval on temporal data). I received my PhD from the Computer Science and Engineering Department of the University of Ioannina in 2023, supervised by <a href='https://www.cs.uoi.gr/~nikos/indexb.html'>Prof. Mamoulis</a> and  <a href='https://pbour.github.io/'>Prof. Bouros</a>. Currently, I am a postdoctoral researcher at <a href='https://www.tudelft.nl/'>TU Delft</a>.
+I received my diploma in Computer Science and Engineering from the <a href='https://www.cse.uoi.gr/?lang=en'>Computer Science and Engineering Department of the University of Ioannina</a> in 2017. I received my MSc in Computer Science with specialization in software from the Computer Science and Engineering Department of the University of Ioannina in 2020. My research interests include Data Management and Query processing (Efficient Data Indexing and Retrieval on temporal data). I received my PhD from the Computer Science and Engineering Department of the University of Ioannina in 2023, supervised by <a href='https://www.cs.uoi.gr/~nikos/indexb.html'>Prof. Mamoulis</a> and  <a href='https://pbour.github.io/'>Prof. Bouros</a>. Currently, I am a postdoctoral researcher at <a href='https://www.tudelft.nl/'>TU Delft</a>. 
+<hr>
+
+You can find my PhD Thesis here. [PDF](/GeorgeChristodoulou_Phd.pdf)
+
 </div>
 
 ## Research Interest
 
-Data Management, Query processing (Efficient Data Indexing and Retrieval on temporal data) and Database Management System engines
+Data Management, Query processing (Efficient Data Indexing and Retrieval on temporal data), Database Management System engines, Stream Processing and Serverless Computing.
 
 
 
