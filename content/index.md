@@ -57,7 +57,7 @@ Data Management, Query processing (Efficient Data Indexing and Retrieval on temp
 
 Reviewer for PAKDD 2021, ICDE 2024, VLDB 2025  
 
-External Reviewer for ICDE 2019-2023, VLDB 2020-2024, SIGMOD 2020, EDBT 2020-2023, DASFAA 2023
+External Reviewer for ICDE 2019-2023, VLDB 2020-2024, SIGMOD 2020, EDBT 2020-2023, DASFAA 2023, SSTD 2023
 
 ## Volunteer Experience
 
