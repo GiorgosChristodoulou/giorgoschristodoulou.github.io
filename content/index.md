@@ -13,12 +13,14 @@ You can find my PhD Thesis here. [PDF](/GeorgeChristodoulou_Phd.pdf)
 
 ## Research Interest
 
-Data Management, Query processing (Efficient Data Indexing and Retrieval on temporal data), Database Management System engines, Stream Processing and Serverless Computing.
+Query processing (Efficient Data Indexing and Retrieval on temporal data), Database Management System engines, Scalable Data Management, Stream Processing
 
 
+## Publications
 
+8. Styx: Transactional Stateful Functions on Streaming Dataflows, Arxiv Preprint [PDF](/George_Christodoulou_Styx.pdf)
 
-## Publications 
+7. Evaluating Stream Processing Autoscalers, International Conference on Distributed and Event-based Systems (DEBS ’24), [PDF](/George_Christodoulou_ESPA.pdf)
 
 6. HINT on Steroids: Batch Query Processing for Interval Data, International Conference on Extending Database Technology (EDBT '24) [PDF](/George_Christodoulou_EDBT24.pdf)
 
