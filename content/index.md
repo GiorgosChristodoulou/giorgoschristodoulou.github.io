@@ -12,11 +12,12 @@ You can find my PhD Thesis here. [PDF](/GeorgeChristodoulou_Phd.pdf)
 </div>
 
 ## Research Interest
-
-Query processing (Efficient Data Indexing and Retrieval on temporal data), Database Management System engines, Scalable Data Management, Stream Processing
-
+<div align='justify'>
+My research centers on advancing scalable, efficient data management systems with a particular emphasis on temporal data, stream processing, and distributed systems. My PhD work focused on innovative indexing solutions for both static interval data and streams of temporal data, addressing the challenges of efficient data indexing and retrieval. In my current postdoctoral research at TU Delft, I am exploring the intersection of distributed systems, transactions, and scalable data management.
+</div>
 
 ## Publications
+<div align='justify'>
 
 8. Styx: Transactional Stateful Functions on Streaming Dataflows, Arxiv Preprint [PDF](/George_Christodoulou_Styx.pdf)
 
@@ -33,19 +34,29 @@ Query processing (Efficient Data Indexing and Retrieval on temporal data), Datab
 2. HINT: A Hierarchical Interval Index for Allen Relationships, International Journal on Very Large Data Bases (VLDBJ '23). [PDF](/George_Christodoulou_VLDBJ.pdf)
 
 1. HINT: A Hierarchical Index for Intervals in Main Memory, Proceedings of the 2022 ACM International Conference on Management of Data (SIGMOD'22). [PDF](/George_Christodoulou_SIGMOD22.pdf)
+</div>
 
 ## Internships 
 
+<div align='justify'>
 
 2.   Research Intern at the Hong Kong University of Science and Technology (HKUST) in Hong Kong, working with Prof. Dimitris Papadias. January - February, 2023.
 
 1.   Research Intern at The University of Mainz (JGU) in Germany, working with Prof. Panagiotis Bouros. February - April, 2022.
 
-## (co)-Supervising or Advising Students
-	
-* Giorgos Kotsinas, Querying intervals (working title), Master thesis, Department of Computer Science and Engineering, UoI
+</div>
 
-* Jan Raider, A user interface for visualizing interval indexing (working title), Bachelor thesis, Insitute of Computer Science, JGU
+## (co)-Supervising or Advising Students
+
+<div align='justify'>
+
+* Sebastian Hemberger, Indexing composite interval data (working title), Bachelor thesis, Institute of Computer Science, JGU
+	
+* Dennis Scheck, Generating and visualizing complex interval data, Bachelor thesis, Institute of Computer Science, JGU
+
+* Giorgos Kotsinas, Ranking Queries over Range Data, Master thesis, Department of Computer Science and Engineering, UoI
+
+* Jan Raider, A graphical user interface for managing interval data, Bachelor thesis, Insitute of Computer Science, JGU
 
 * Vasileios Georgoulas, Bachelor thesis, A web application for passenger movement with public transport, Department of Computer Science and Engineering, UoI
 
@@ -55,11 +66,15 @@ Query processing (Efficient Data Indexing and Retrieval on temporal data), Datab
 
 * Filippos-Apostolos Papachristou, Bachelor thesis, Implementation and evaluation of a main memory temporal index, Department of Computer Science and Engineering, UoI
 
+</div>
+
 ## Service
 
-Reviewer for PAKDD 2021, ICDE 2024, VLDB 2025  
+
+Member of Program Committee for PAKDD 2021, ICDE 2024, VLDB 2025, EDBT 2026  
 
 External Reviewer for ICDE 2019-2023, VLDB 2020-2024, SIGMOD 2020, EDBT 2020-2023, DASFAA 2023, SSTD 2023
+ 
 
 ## Volunteer Experience
 
@@ -67,7 +82,7 @@ External Reviewer for ICDE 2019-2023, VLDB 2020-2024, SIGMOD 2020, EDBT 2020-202
 
 
 ## Projects
-
+ 
 Year | Position
 -----|--------
 2019 | Research Assistant at Centre for Research & Technology Hellas (CERTH) - [SerIoT Project](https://seriot-project.eu/)
