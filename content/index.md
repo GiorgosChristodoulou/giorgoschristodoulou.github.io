@@ -4,22 +4,27 @@ title = "George Christodoulou"
 
 ## Georgios (George) Christodoulou 
 <div align='justify'>
-I received my diploma in Computer Science and Engineering from the <a href='https://www.cse.uoi.gr/?lang=en'>Computer Science and Engineering Department of the University of Ioannina</a> in 2017. I received my MSc in Computer Science with specialization in software from the Computer Science and Engineering Department of the University of Ioannina in 2020. My research interests include Data Management and Query processing (Efficient Data Indexing and Retrieval on temporal data). I received my PhD from the Computer Science and Engineering Department of the University of Ioannina in 2023, supervised by <a href='https://www.cs.uoi.gr/~nikos/indexb.html'>Prof. Mamoulis</a> and  <a href='https://pbour.github.io/'>Prof. Bouros</a>. Currently, I am a postdoctoral researcher at <a href='https://www.tudelft.nl/'>TU Delft</a>. 
+I received my diploma in Computer Science and Engineering from the <a href='https://www.cse.uoi.gr/?lang=en'>Computer Science and Engineering Department of the University of Ioannina</a> in 2017. I received my MSc in Computer Science with specialization in software from the Computer Science and Engineering Department of the University of Ioannina in 2020. I received my PhD from the Computer Science and Engineering Department of the University of Ioannina in 2023, supervised by <a href='https://www.cs.uoi.gr/~nikos/indexb.html'>Prof. Mamoulis</a> and  <a href='https://pbour.github.io/'>Prof. Bouros</a>. Currently, I am a postdoctoral researcher at <a href='https://www.tudelft.nl/'>TU Delft</a>. 
 <hr>
 
-You can find my PhD Thesis here. [PDF](/GeorgeChristodoulou_Phd.pdf)
+You can find my PhD Thesis here. [PDF](/GeorgeChristodoulou_Phd.pdf) 
 
 </div>
 
 ## Research Interest
 <div align='justify'>
-My research centers on advancing scalable, efficient data management systems with a particular emphasis on temporal data, stream processing, and distributed systems. My PhD work focused on innovative indexing solutions for both static interval data and streams of temporal data, addressing the challenges of efficient data indexing and retrieval. In my current postdoctoral research at TU Delft, I am exploring the intersection of distributed systems, transactions, and scalable data management.
+My research centers on advancing scalable, efficient data management systems with a particular emphasis on complex data, stream processing, and distributed systems. My PhD work focused on novel indexing solutions for both static interval data and streams of temporal data, addressing the challenges of efficient data indexing and retrieval. In my current postdoctoral research at TU Delft, I am exploring the intersection of streaming dataflow systems, transactions, and scalable data management.
 </div>
 
 ## Publications
 <div align='justify'>
 
-8. Styx: Transactional Stateful Functions on Streaming Dataflows, Arxiv Preprint [PDF](/George_Christodoulou_Styx.pdf)
+
+10. Styx: Transactional Stateful Functions on Streaming Dataflows, Proceedings of the 2024 ACM International Conference on Management of Data (SIGMOD '25), to appear.
+
+9.  Transactional Cloud Applications: Status Quo, Challenges, and Opportunities, Proceedings of the 2024 ACM International Conference on Management of Data (SIGMOD '25) (Tutorial), to appear.
+
+8. Transactional Cloud Applications Go with the (Data)Flow, Conference on Innovative Data Systems Research (CIDR '25), [PDF](/cidr25_2.pdf)
 
 7. Evaluating Stream Processing Autoscalers, International Conference on Distributed and Event-based Systems (DEBS ’24), [PDF](/George_Christodoulou_ESPA.pdf)
 
@@ -27,11 +32,11 @@ My research centers on advancing scalable, efficient data management systems wit
 
 5. LIT: Lightning-fast In-memory Temporal Indexing, Proceedings of the 2024 ACM International Conference on Management of Data (SIGMOD '24). [PDF](/George_Christodoulou_SIGMOD24.pdf)
 
-4. Efficient And Scalable Management Of Interval Data, International Conference on Extending Database Technology (EDBT '23) PhD Workshop. [PDF](/George_Christodoulou_EDBT_PhD_Workshop.pdf)
+4. HINT: A Hierarchical Interval Index for Allen Relationships, International Journal on Very Large Data Bases (VLDBJ '24). [PDF](/George_Christodoulou_VLDBJ.pdf)
 
-3. SmartCityBus-A Platform for Smart Transportation Systems, Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM '23) Abstract. [PDF](/GeorgeChristodoulou_WSDM23.pdf)
+3. Efficient And Scalable Management Of Interval Data, International Conference on Extending Database Technology (EDBT '23) PhD Workshop. [PDF](/George_Christodoulou_EDBT_PhD_Workshop.pdf)
 
-2. HINT: A Hierarchical Interval Index for Allen Relationships, International Journal on Very Large Data Bases (VLDBJ '23). [PDF](/George_Christodoulou_VLDBJ.pdf)
+2. SmartCityBus-A Platform for Smart Transportation Systems, Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM '23) (Abstract). [PDF](/GeorgeChristodoulou_WSDM23.pdf) 
 
 1. HINT: A Hierarchical Index for Intervals in Main Memory, Proceedings of the 2022 ACM International Conference on Management of Data (SIGMOD'22). [PDF](/George_Christodoulou_SIGMOD22.pdf)
 </div>
@@ -46,27 +51,59 @@ My research centers on advancing scalable, efficient data management systems wit
 
 </div>
 
-## (co)-Supervising or Advising Students
+
+
+## Advising PhD Students
 
 <div align='justify'>
 
-* Sebastian Hemberger, Indexing composite interval data (working title), Bachelor thesis, Institute of Computer Science, JGU
-	
-* Dennis Scheck, Generating and visualizing complex interval data, Bachelor thesis, Institute of Computer Science, JGU
+* George Siachamis, <a href= https://pure.tudelft.nl/ws/portalfiles/portal/222822645/gsiachamis_dissertation.pdf> Adaptivity for Streaming Dataflow Engines </a>, TU Delft
 
-* Giorgos Kotsinas, Ranking Queries over Range Data, Master thesis, Department of Computer Science and Engineering, UoI
+* Kyriakos Psarakis, Stateful Functions on Streaming Dataflows, TU Delft
 
-* Jan Raider, A graphical user interface for managing interval data, Bachelor thesis, Insitute of Computer Science, JGU
+* Marcus Schutte, Compiling Imperative code to Dataflows, TU Delft
 
-* Vasileios Georgoulas, Bachelor thesis, A web application for passenger movement with public transport, Department of Computer Science and Engineering, UoI
+* Oto Mraz, Evaluating Deterministic Database Sequencers, TU Delft
 
-* Danae Tsaousi, Bachelor thesis, Visualization and analysis of public transport data, Department of Computer Science and Engineering, UoI
 
-* Penelope Eleftheriadi, Bachelor thesis, Visualization and analysis of public transport data, Department of Computer Science and Engineering, UoI
-
-* Filippos-Apostolos Papachristou, Bachelor thesis, Implementation and evaluation of a main memory temporal index, Department of Computer Science and Engineering, UoI
 
 </div>
+
+## Advising  MSc Students
+
+<div align='justify'>
+
+* Lucas Van Mol, Intermediate representation for dataflows, TU Delft
+
+* Smruti Kshirsagar,  Efficient queries in external data stores, TU Delft
+
+* Mitali Patil, Global state queries in stream processing, TU Delft
+
+* Giorgos Kotsinas, Ranking queries over range data, UoI
+
+</div>
+
+
+## Advising  BSc Students
+
+<div align='justify'>
+
+* Sebastian Hemberger, Indexing composite interval data, JGU
+	
+* Dennis Scheck, Generating and visualizing complex interval data, JGU
+
+* Jan Raider, A graphical user interface for managing interval data, JGU
+
+* Vasileios Georgoulas, Bachelor thesis, A web application for passenger movement with public transport, UoI
+
+* Danae Tsaousi, Bachelor thesis, Visualization and analysis of public transport data, UoI
+
+* Penelope Eleftheriadi, Bachelor thesis, Visualization and analysis of public transport data, UoI
+
+* Filippos-Apostolos Papachristou, Bachelor thesis, Implementation and evaluation of a main memory temporal index, UoI
+
+</div>
+
 
 ## Service
 
