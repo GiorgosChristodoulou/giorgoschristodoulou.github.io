@@ -15,7 +15,7 @@ You can find my PhD Thesis here. [PDF](/GeorgeChristodoulou_Phd.pdf)
 <div align='justify'>
 My research centers on advancing scalable, efficient data management systems with a particular emphasis on complex data, stream processing, and distributed systems. My PhD work focused on novel indexing solutions for both static interval data and streams of temporal data, addressing the challenges of efficient data indexing and retrieval. In my current postdoctoral research at TU Delft, I am exploring the intersection of streaming dataflow systems, transactions, and scalable data management.
 </div>
-
+ 
 ## Publications
 <div align='justify'>
 
