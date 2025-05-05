@@ -19,6 +19,7 @@ My research centers on advancing scalable, efficient data management systems wit
 ## Publications
 <div align='justify'>
 
+11. Querying Interval Data on Steroids, IEEE Transactions on Knowledge and Data Engineering (TKDE '25), [PDF](/George_Christodoulou_TKDE25.pdf)
 
 10. Styx: Transactional Stateful Functions on Streaming Dataflows, Proceedings of the 2024 ACM International Conference on Management of Data (SIGMOD '25), to appear.
 
