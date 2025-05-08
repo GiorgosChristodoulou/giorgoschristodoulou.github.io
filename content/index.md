@@ -8,7 +8,7 @@ I received my diploma in Computer Science and Engineering from the <a href='http
 <hr>
 
 You can find my PhD Thesis here. [PDF](/GeorgeChristodoulou_Phd.pdf) 
-
+ 
 </div>
 
 ## Research Interest

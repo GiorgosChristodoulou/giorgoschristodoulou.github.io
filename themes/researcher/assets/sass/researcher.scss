@@ -16,13 +16,13 @@ $y-medium: 1.0rem;
 
 // Placeholders
 %link-default {
-    color: $red;
+    color: #35c0dc;
     text-decoration: none;
     & * {
-        color: $red;
+        color: #35c0dc;
     }
     &:hover {
-        color: $red;
+        color: #35c0dc;
         text-decoration: underline;
     }
 }
