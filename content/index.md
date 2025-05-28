@@ -11,13 +11,19 @@ You can find my PhD Thesis here. [PDF](/GeorgeChristodoulou_Phd.pdf)
  
 </div>
 
-## Research Interest
+## Research Interest 
 <div align='justify'>
 My research centers on advancing scalable, efficient data management systems with a particular emphasis on complex data, stream processing, and distributed systems. My PhD work focused on novel indexing solutions for both static interval data and streams of temporal data, addressing the challenges of efficient data indexing and retrieval. In my current postdoctoral research at TU Delft, I am exploring the intersection of streaming dataflow systems, transactions, and scalable data management.
-</div>
+</div> 
  
 ## Publications
 <div align='justify'>
+
+13. Styx in Action: Transactional Cloud Applications Made Easy, International Conference on Very Large Data Bases (VLDB '25) Demo, to appear.
+
+
+12. Cascade: From Imperative Code to Stateful Dataflows, International Symposium on
+Database Programming Languages, (DBPL '25), to appear.
 
 11. Querying Interval Data on Steroids, IEEE Transactions on Knowledge and Data Engineering (TKDE '25), [PDF](/George_Christodoulou_TKDE25.pdf)
 
