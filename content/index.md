@@ -23,13 +23,13 @@ My research centers on advancing scalable, efficient data management systems wit
 
 
 12. Cascade: From Imperative Code to Stateful Dataflows, International Symposium on
-Database Programming Languages, (DBPL '25), to appear.
+Database Programming Languages, (DBPL@SIGMOD '25), [PDF](/dbpl_sigmod25.pdf)
 
 11. Querying Interval Data on Steroids, IEEE Transactions on Knowledge and Data Engineering (TKDE '25), [PDF](/George_Christodoulou_TKDE25.pdf)
 
-10. Styx: Transactional Stateful Functions on Streaming Dataflows, Proceedings of the 2024 ACM International Conference on Management of Data (SIGMOD '25), to appear.
+10. Styx: Transactional Stateful Functions on Streaming Dataflows, Proceedings of the 2024 ACM International Conference on Management of Data (SIGMOD '25), [PDF](/styx_sigmod25.pdf)
 
-9.  Transactional Cloud Applications: Status Quo, Challenges, and Opportunities, Proceedings of the 2024 ACM International Conference on Management of Data (SIGMOD '25) (Tutorial), to appear.
+9.  Transactional Cloud Applications: Status Quo, Challenges, and Opportunities, Proceedings of the 2024 ACM International Conference on Management of Data (SIGMOD '25) (Tutorial), [PDF,](/transactions_tutorial_sigmod25.pdf) [Website](https://delftdata.github.io/tutorial-sigmod25/)
 
 8. Transactional Cloud Applications Go with the (Data)Flow, Conference on Innovative Data Systems Research (CIDR '25), [PDF](/cidr25_2.pdf)
 
@@ -48,15 +48,7 @@ Database Programming Languages, (DBPL '25), to appear.
 1. HINT: A Hierarchical Index for Intervals in Main Memory, Proceedings of the 2022 ACM International Conference on Management of Data (SIGMOD'22). [PDF](/George_Christodoulou_SIGMOD22.pdf)
 </div>
 
-## Internships 
 
-<div align='justify'>
-
-2.   Research Intern at the Hong Kong University of Science and Technology (HKUST) in Hong Kong, working with Prof. Dimitris Papadias. January - February, 2023.
-
-1.   Research Intern at The University of Mainz (JGU) in Germany, working with Prof. Panagiotis Bouros. February - April, 2022.
-
-</div>
 
 
 
@@ -68,7 +60,7 @@ Database Programming Languages, (DBPL '25), to appear.
 
 * Kyriakos Psarakis, Stateful Functions on Streaming Dataflows, TU Delft
 
-* Marcus Schutte, Compiling Imperative code to Dataflows, TU Delft
+<!-- * Marcus Schutte, Compiling Imperative code to Dataflows, TU Delft -->
 
 * Oto Mraz, Evaluating Deterministic Database Sequencers, TU Delft
 
@@ -112,10 +104,27 @@ Database Programming Languages, (DBPL '25), to appear.
 </div>
 
 
+## Invited Talks
+<div align='justify'>
+
+1. Next-Generation Data Management Systems @ EDBT '25
+
+</div>
+
+## Internships 
+
+<div align='justify'>
+
+2.   Research Intern at the Hong Kong University of Science and Technology (HKUST) in Hong Kong, working with Prof. Dimitris Papadias. January - February, 2023.
+
+1.   Research Intern at The University of Mainz (JGU) in Germany, working with Prof. Panagiotis Bouros. February - April, 2022.
+
+</div>
+
 ## Service
 
 
-Member of Program Committee for PAKDD 2021, ICDE 2024, VLDB 2025, EDBT 2026  
+Member of Program Committee for PAKDD 2021, ICDE 2024, VLDB 2025, EDBT 2026, VLDB 2026   
 
 External Reviewer for ICDE 2019-2023, VLDB 2020-2024, SIGMOD 2020, EDBT 2020-2023, DASFAA 2023, SSTD 2023
  
